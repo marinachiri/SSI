@@ -1,0 +1,1 @@
+Am lucrat in google colab, pentru a functiona codul, schimbati calea fisierelor
